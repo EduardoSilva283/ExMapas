@@ -1,5 +1,5 @@
 
-#Lista de Execicios Eduardo Luis - 5º Semestre DSM
+# Lista de Execicios Eduardo Luis - 5º Semestre DSM
 
 
 # Welcome to your Expo app 👋
